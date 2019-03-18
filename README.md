@@ -5,8 +5,6 @@ Minimal Operator build with Trash for Dependencies
 
 'git init
 
-'trash init
-
 'copied across Dockerfile, vendor.conf and main.go to new folder.
 
 'ran trash
